@@ -3,4 +3,5 @@ The young crow is not.
 Of what the young crow does not know
 The old crow knows a lot.
 Conflicting change.ø
-ø
+�
+Fourth line added.
